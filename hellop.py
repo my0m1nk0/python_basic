@@ -6,5 +6,15 @@
 #test_folder , testFolder 
 # hello_world.py
 #python3 hellop.py
+# print("****************************")
+# print("")
+# print("Calculate Area of Rectangle")
+# print("")
+# print("****************************")
 
-print("Hello World")
+# height =input("Rectangle  Height: ")
+# width = input("Rectangle Width: ")
+# area = int(width) * int(height)
+# print("Area of Rectangle is:",area)
+
+
